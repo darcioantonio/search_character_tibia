@@ -1,10 +1,3 @@
-# Mostra informçoes do personagem dentro do game apertando control + C e depois Pause
-# Como utilizar!
-# 1 - Selecione o nome do player dentro do game 'Tibia Global' e aperte CTR + C
-# 2 - Precione a tecla do teclado: Pause
-# 3 - pronto ele vai informar o Nome, Level, Vocação do personagem
-# Se preferir trocar a tecla vá até hotkeys linha 15 e coloque a tecla desejada!
-
 import requests
 from bs4 import BeautifulSoup
 import keyboard
